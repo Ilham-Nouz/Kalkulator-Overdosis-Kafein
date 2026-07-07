@@ -2,7 +2,9 @@
 
 Program sederhana untuk menghitung **batas aman**, **ambang batas overdosis**, dan **dosis fatal (lethal dose)** kafein berdasarkan berat badan pengguna. Tersedia dalam dua versi: **Bash** dan **Python**.
 
-> Dibuat oleh: [Ilham Aditya Pratama] — [25.11.6407]
+> Dibuat oleh:
+> Nama   : [Ilham Aditya Pratama]
+> NIM    : [25.11.6407]
 > Tugas Final Project Bash-Python
 
 ## 📋 Deskripsi
