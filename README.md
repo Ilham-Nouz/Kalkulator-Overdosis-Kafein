@@ -1,4 +1,4 @@
-Kalkulator-Dosis-Kafein
+## Kalkulator-Dosis-Kafein
 
 Program sederhana untuk menghitung **batas aman**, **ambang batas overdosis**, dan **dosis fatal (lethal dose)** kafein berdasarkan berat badan pengguna. Tersedia dalam dua versi: **Bash** dan **Python**.
 
